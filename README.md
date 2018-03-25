@@ -1,6 +1,6 @@
 # FiveM Menu Framework
 
-Currently a WIP. Will most likely not work like you want it to.
+Currently a WIP. Will most likely not work like you want it to (yet).
 
 For interaction menus, character customization and vehicle customization.
 
