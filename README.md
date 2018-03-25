@@ -12,6 +12,9 @@ Sound effects.
 
 ![Vehicle Customization Example](https://i.imgur.com/vAoJBk2.png)
 
+[Character Customization Sample Video](https://streamable.com/mozw5)
+[Vehicle Customization Sample Video](https://streamable.com/k5gyt)
+
 # License
 
 Currently under a different license than the main repo until I get it to a working state.
