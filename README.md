@@ -4,6 +4,10 @@ Currently a WIP. Will most likely not work like you want it to (yet).
 
 For interaction menus, character customization and vehicle customization.
 
+Supports both mouse and keyboard controls.
+
+Sound effects.
+
 ![Character Customization Example](https://i.imgur.com/FpoYVld.png)
 
 ![Vehicle Customization Example](https://i.imgur.com/vAoJBk2.png)
